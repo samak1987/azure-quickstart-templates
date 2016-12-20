@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "ghuser"
+      "value": "darkforce"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Password@123"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "3cpo87"
     }
   }
 }
